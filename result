@@ -1,0 +1,11 @@
+============================= test session starts =============================
+collecting ... collected 4 items
+
+first_test.py::TestCalc::test_multiply_calculate_correctly PASSED        [ 25%]
+first_test.py::TestCalc::test_division_calculate_correctly PASSED        [ 50%]
+first_test.py::TestCalc::test_subtraction_calculate_correctly PASSED     [ 75%]
+first_test.py::TestCalc::test_adding_calculate_correctly PASSED          [100%]
+
+============================== 4 passed in 0.03s ==============================
+
+Process finished with exit code 0
